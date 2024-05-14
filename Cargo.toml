@@ -1,0 +1,9 @@
+[package]
+name = "system_update"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nix = "0.28.0"
+subprocess = "0.2.8"
+
